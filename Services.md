@@ -25,3 +25,15 @@ System reaches out to a non local time server every 3 seconds.  This is then rep
 `sudo nano /root/set-time.sh` See [set-time.sh](/root/set-time.sh)
 
 `sudo systemctl restart makerbase-time-monitor.service`
+
+## Webcam Service
+
+Getting my webcam to work.
+
+`sudo systemctl enable webcamd.service`
+
+`sudo systemctl start webcamd.service`
+
+Some config at system startup
+
+`sudo nano /etc/rc.local` See [rc.local](/etc/rc.local)
