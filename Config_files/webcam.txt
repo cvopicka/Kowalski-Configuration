@@ -1,0 +1,5 @@
+# only the changes I made
+
+camera="usb"
+
+camera_usb_options="-d /dev/video4 -r 800x600 -f 15"
