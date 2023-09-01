@@ -8,3 +8,5 @@ Seems the initial version was out of date and still stored files here.  There wa
 - `logs -> /home/mks/klipper_logs`
 
 Additional reading says it should be automagic but 1 of 2 printers this was not true.
+
+Thanks to [this moonraker issue](https://github.com/Arksine/moonraker/issues/516) I resolved my problems.
